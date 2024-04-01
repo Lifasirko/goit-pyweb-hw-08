@@ -1,10 +1,5 @@
 import subprocess
 
-# scripts = [
-#     'second_task\producer.py',
-#     'second_task\consumer_email.py',
-#     'second_task\consumer_sms.py'
-# ]
 
 scripts = [
     'second_task\\producer.py',
